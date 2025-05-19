@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Accueil
 nav_order: 1
 ---
 # Bienvenue sur le site de documentation
