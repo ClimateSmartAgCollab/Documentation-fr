@@ -7,7 +7,7 @@ nav_order: 1
 
 Ici, sont rassemblées les ressources qui seront utiles aux membres du Centre de données (*Data Hub*).
 
-Si vous souhaitez voir plus de contenu hébergé ici, faites-le nous savoir dans le forum de discussion du Centre de données.
+Si vous souhaitez proposer des idées de contenu à ajouter ici, écrivez-nous dans le forum de discussion du Centre de données.
 
 # Les principes FAIR pour les données
 
