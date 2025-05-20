@@ -11,21 +11,22 @@ Si vous souhaitez proposer des idées de contenu à ajouter ici, écrivez-nous d
 
 # Les principes FAIR pour les données
 
-Publiés en 2016, les principes directeurs FAIR aident les chercheurs à améliorer leurs actifs numériques (tels que les données) en améliorant la :
+Publiés en 2016, les principes directeurs FAIR aident la communauté de recherche à améliorer ses actifs numériques (tels que les données) en améliorant la :
 * F - Facilité de recherche
 * A - Accessibilité
 * I - Interopérabilité
 * R - Réutilisabilité
 
-Ce site de documentation fournit des ressources pour aider les chercheurs à améliorer l’aspect FAIR de leurs résultats de recherche.
+Ce site de documentation fournit des ressources pour aider les chercheuses et les chercheurs à améliorer l’aspect FAIR de leurs résultats de recherche.
 
 {: .highlight }
-Le manuel numérique gratuit (en anglais) [Gestion des données de recherche dans le contexte canadien (2023)](https://ecampusontario.pressbooks.pub/canadardm/) est une ressource excellente et complète.
+Le manuel numérique gratuit (en français) [Gestion des données de recherche dans le contexte canadien (2023)](https://ecampusontario.pressbooks.pub/gdrcanada/) est une ressource excellente et complète.
 
 
 ## Ressources FAIR
-* Manuel numérique gratuit [Gestion des données de recherche dans le contexte canadien](https://ecampusontario.pressbooks.pub/canadardm/)
+* Manuel numérique gratuit [Gestion des données de recherche dans le contexte canadien](https://ecampusontario.pressbooks.pub/gdrcanada/)
 * Bibliothèque UBC [Research Data Management Documentation](https://ubc-library-rc.github.io/rdm/).
+* École de Technologie Supérieure (ETS), traductions des formations de la bibliothèque UBC: [La gestion des données de recherche (GDR)](https://etsmtl.libguides.com/gdr/pausedonnees)
 * Site officiel de [GO-FAIR](https://www.go-fair.org/fair-principles/)
 * L’EOSC a publié un [site de ressources](https://catalogue.fair-impact.eu/resources) pour aider à trouver des moyens de mettre en œuvre les principes FAIR.
 * L'Alliance de recherche numérique du Canada propose de nombreux liens vers des [ressources de formation en français](https://alliancecan.ca/fr/services/gestion-des-donnees-de-recherche/apprentissage-et-ressources/ressources-de-formation) qui seraient utiles aux chercheurs.
