@@ -28,7 +28,7 @@ Le manuel numérique gratuit (en français) [Gestion des données de recherche d
 * Bibliothèque UBC [Research Data Management Documentation](https://ubc-library-rc.github.io/rdm/).
 * École de Technologie Supérieure (ETS), traductions des formations de la bibliothèque UBC: [La gestion des données de recherche (GDR)](https://etsmtl.libguides.com/gdr/pausedonnees)
 * Site officiel de [GO-FAIR](https://www.go-fair.org/fair-principles/)
-* L’EOSC a publié un [site de ressources](https://catalogue.fair-impact.eu/resources) pour aider à trouver des moyens de mettre en œuvre les principes FAIR.
+* Le [Nuage européen pour la science ouverte](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/open-science/european-open-science-cloud-eosc_en?prefLang=fr&etrans=fr) a publié un [site de ressources](https://catalogue.fair-impact.eu/resources) pour aider à trouver des moyens de mettre en œuvre les principes FAIR.
 * L'Alliance de recherche numérique du Canada propose de nombreux liens vers des [ressources de formation en français](https://alliancecan.ca/fr/services/gestion-des-donnees-de-recherche/apprentissage-et-ressources/ressources-de-formation) qui seraient utiles aux chercheurs.
 
 - écrit par Carly Huitema
