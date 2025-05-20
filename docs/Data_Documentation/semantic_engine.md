@@ -49,7 +49,7 @@ Stockez votre schéma de plusieurs manières.
 
 1. Stockez un schéma avec votre ensemble de données et partagez-le lorsque vous partagez vos données.
 2. Partagez un schéma avec votre laboratoire ou vos collaborateurs en le stockant dans un lecteur de laboratoire partagé.
-3. Stockez votre schéma en tant qu'objet indépendant dans un référentiel tel que Borealis ou Zenodo.
+3. Stockez votre schéma en tant qu'objet indépendant dans un dépôt de données tel que Borealis ou Zenodo.
 
 Stockez ensemble la version groupée du schéma lisible par machine et la version .txt lisible par l'homme pour une meilleure convivialité.
 

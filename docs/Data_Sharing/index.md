@@ -23,7 +23,7 @@ Les données autochtones suscitent des préoccupations particulières en matièr
 
 ### Hébergement :
 
-* Déterminer un référentiel public ou à accès contrôlé pour héberger les données du projet. À cet effet, nous recommandons
+* Déterminer un dépôt de données public ou à accès contrôlé pour héberger les données du projet. À cet effet, nous recommandons
 	* [Borealis](https://borealisdata.ca/), le référentiel canadien Dataverse (anciennement appelé Dataverse). Voir [Partage de données à l'aide de Borealis](https://learn.scholarsportal.info/modules/portage/dataverse-101-module-1/) pour une introduction au partage de données et à la plateforme Borealis.
 * Assurer un téléchargement et un téléchargement sécurisés (inviolables) des données.
 * Mettre en œuvre et maintenir un contrôle d'accès si nécessaire.
