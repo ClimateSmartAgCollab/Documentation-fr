@@ -1,7 +1,6 @@
 ---
 layout: default
 title: OCAP et CARE
-nav_order: 10
 ---
 
 # Principes PCAP
