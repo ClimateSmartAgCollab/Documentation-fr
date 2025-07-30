@@ -1,7 +1,3 @@
----
-layout: default
-title: OCAP et CARE
----
 
 # Principes PCAP
 
