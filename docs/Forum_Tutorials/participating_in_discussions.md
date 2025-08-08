@@ -45,13 +45,13 @@ Pour démarrer une nouvelle discussion :
 
 <img src="../assets/images/forum/reply_to_a_topic.png" alt="capture d'écran de la réponse à un sujet" width="60%">
 
-#### Répondre par e-mail
+#### Répondre par courriel
 
-- Lorsqu'une personne répond à un message que vous suivez, un **e-mail de notification** vous est envoyé.
-- Il vous suffit de **répondre directement à l’e-mail**. Après quelques minutes, votre réponse sera automatiquement publiée dans le fil de discussion Discourse.
+- Lorsqu'une personne répond à un message que vous suivez, un **courriel de notification** vous est envoyé.
+- Il vous suffit de **répondre directement au courriel**. Après quelques minutes, votre réponse sera automatiquement publiée dans le fil de discussion Discourse.
 
 **Astuce :**
 
 - Vous pouvez taper `@` suivi du nom d'utilisateur pour notifier quelqu’un (ex. : `@nomutilisateur`).
-- Vous pouvez **joindre des fichiers ou des images** à votre réponse par e-mail. Ils seront téléchargés dans le fil avec votre réponse.
+- Vous pouvez **joindre des fichiers ou des images** à votre réponse par courriel. Ils seront téléchargés dans le fil avec votre réponse.
 - La mise en forme de base (comme le **gras** ou *l’italique*) peut être conservée selon votre client de messagerie.
