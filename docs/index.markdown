@@ -3,7 +3,7 @@ layout: home
 title: Home
 nav_order: 1
 ---
-# Bienvenue sur le site de documentation
+# Bienvenue sur le RéférentielAgriData
 
 Ici, sont rassemblées les ressources qui seront utiles aux membres du Centre de données (*Data Hub*).
 
@@ -17,7 +17,7 @@ Publiés en 2016, les principes directeurs FAIR aident la communauté de recherc
 * I - Interopérabilité
 * R - Réutilisabilité
 
-Ce site de documentation fournit des ressources pour aider les chercheuses et les chercheurs à améliorer l’aspect FAIR de leurs résultats de recherche.
+Ce site de RéférentielAgriData fournit des ressources pour aider les chercheuses et les chercheurs à améliorer l’aspect FAIR de leurs résultats de recherche.
 
 {: .highlight }
 Le manuel numérique gratuit (en français) [Gestion des données de recherche dans le contexte canadien (2023)](https://ecampusontario.pressbooks.pub/gdrcanada/) est une ressource excellente et complète.
