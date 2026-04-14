@@ -5,9 +5,7 @@ nav_order: 1
 ---
 # Bienvenue sur le RéférentielAgriData
 
-Ici, sont rassemblées les ressources qui seront utiles aux membres du Centre de données (*Data Hub*).
-
-Si vous souhaitez proposer des idées de contenu à ajouter ici, écrivez-nous dans le forum de discussion du Centre de données.
+Vous trouverez ici des ressources générales pour la gestion des données de recherche (GDR) et ce site a été créé dans le cadre du [Réseau agroalimentaire intelligent face au climat](https://climatesmartagrifood.ca/fr/) pour ses membres.
 
 # Les principes FAIR pour les données
 
